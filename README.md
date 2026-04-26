@@ -27,6 +27,12 @@ implemented and tested on Cisco Packet Tracer.
 - Failover scenario (R1-R2 link down → rerouted via R3)
 - Protocol redistribution at R2
 
+## Tech Stack
+- Cisco Packet Tracer
+- RIP (Routing Information Protocol)
+- OSPF (Open Shortest Path First)
+- Protocol Redistribution
+
 ## Tools Used
 - Cisco Packet Tracer
 - CLI commands: show ip route, show ip protocols, show ip ospf neighbor
